@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\bin\Debug\E3-Rectangulo.exe.config
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\bin\Debug\E3-Rectangulo.exe
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\bin\Debug\E3-Rectangulo.pdb
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3-Rectangulo.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3_Rectangulo.Form1.resources
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3_Rectangulo.Properties.Resources.resources
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3-Rectangulo.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3-Rectangulo.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3-Rectangulo.exe
+C:\Users\sarah\Desktop\E3-Rectangulo\E3-Rectangulo\obj\Debug\E3-Rectangulo.pdb

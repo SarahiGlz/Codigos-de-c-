@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\bin\Debug\E12-Distancia.exe.config
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\bin\Debug\E12-Distancia.exe
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\bin\Debug\E12-Distancia.pdb
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12-Distancia.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12_Distancia.Form1.resources
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12_Distancia.Properties.Resources.resources
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12-Distancia.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12-Distancia.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12-Distancia.exe
+C:\Users\sarah\Desktop\E12-Distancia\E12-Distancia\obj\Debug\E12-Distancia.pdb

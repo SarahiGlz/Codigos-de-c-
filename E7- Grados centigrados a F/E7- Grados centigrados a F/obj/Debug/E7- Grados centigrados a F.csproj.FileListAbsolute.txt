@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\bin\Debug\E7- Grados centigrados a F.exe.config
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\bin\Debug\E7- Grados centigrados a F.exe
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\bin\Debug\E7- Grados centigrados a F.pdb
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7- Grados centigrados a F.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7__Grados_centigrados_a_F.Form1.resources
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7__Grados_centigrados_a_F.Properties.Resources.resources
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7- Grados centigrados a F.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7- Grados centigrados a F.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7- Grados centigrados a F.exe
+C:\Users\sarah\Desktop\E7- Grados centigrados a F\E7- Grados centigrados a F\obj\Debug\E7- Grados centigrados a F.pdb

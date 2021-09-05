@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\bin\Debug\E15-Llamada Telefonica.exe.config
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\bin\Debug\E15-Llamada Telefonica.exe
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\bin\Debug\E15-Llamada Telefonica.pdb
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15-Llamada Telefonica.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15_Llamada_Telefonica.Form1.resources
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15_Llamada_Telefonica.Properties.Resources.resources
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15-Llamada Telefonica.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15-Llamada Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15-Llamada Telefonica.exe
+C:\Users\sarah\Desktop\E15-Llamada Telefonica\E15-Llamada Telefonica\obj\Debug\E15-Llamada Telefonica.pdb

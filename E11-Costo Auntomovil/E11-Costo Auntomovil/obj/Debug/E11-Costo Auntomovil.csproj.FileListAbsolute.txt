@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\bin\Debug\E11-Costo Auntomovil.exe.config
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\bin\Debug\E11-Costo Auntomovil.exe
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\bin\Debug\E11-Costo Auntomovil.pdb
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11-Costo Auntomovil.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11_Costo_Auntomovil.Form1.resources
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11_Costo_Auntomovil.Properties.Resources.resources
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11-Costo Auntomovil.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11-Costo Auntomovil.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11-Costo Auntomovil.exe
+C:\Users\sarah\Desktop\E11-Costo Auntomovil\E11-Costo Auntomovil\obj\Debug\E11-Costo Auntomovil.pdb

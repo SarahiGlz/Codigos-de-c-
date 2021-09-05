@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\bin\Debug\E1-Circunferencia.exe.config
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\bin\Debug\E1-Circunferencia.exe
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\bin\Debug\E1-Circunferencia.pdb
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1-Circunferencia.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1_Circunferencia.Form1.resources
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1_Circunferencia.Properties.Resources.resources
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1-Circunferencia.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1-Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1-Circunferencia.exe
+C:\Users\sarah\Desktop\E1-Circunferencia\E1-Circunferencia\obj\Debug\E1-Circunferencia.pdb

@@ -1,0 +1,30 @@
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.exe.config
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.exe
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.pdb
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9_gasolineria.Form1.resources
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9_gasolineria.Properties.Resources.resources
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.exe
+C:\Users\sarah\Desktop\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.pdb
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.exe.config
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.exe
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.pdb
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9_gasolineria.Form1.resources
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9_gasolineria.Properties.Resources.resources
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.exe
+C:\Users\sarah\Desktop\ejercicios poo\e9 gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.pdb
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9_gasolineria.Form1.resources
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9_gasolineria.Properties.Resources.resources
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.exe
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\obj\Debug\e9 gasolineria.pdb
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.exe.config
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.exe
+C:\Users\sarah\Desktop\E9-Gasolineria\e9 gasolineria\bin\Debug\e9 gasolineria.pdb

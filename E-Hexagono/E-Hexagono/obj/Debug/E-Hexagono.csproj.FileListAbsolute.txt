@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\bin\Debug\E-Hexagono.exe.config
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\bin\Debug\E-Hexagono.exe
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\bin\Debug\E-Hexagono.pdb
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E-Hexagono.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E_Hexagono.Form1.resources
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E_Hexagono.Properties.Resources.resources
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E-Hexagono.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E-Hexagono.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E-Hexagono.exe
+C:\Users\sarah\Desktop\E-Hexagono\E-Hexagono\obj\Debug\E-Hexagono.pdb

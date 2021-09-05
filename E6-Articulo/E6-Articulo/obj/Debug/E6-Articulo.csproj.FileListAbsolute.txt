@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\bin\Debug\E6-Articulo.exe.config
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\bin\Debug\E6-Articulo.exe
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\bin\Debug\E6-Articulo.pdb
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6-Articulo.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6_Articulo.Form1.resources
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6_Articulo.Properties.Resources.resources
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6-Articulo.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6-Articulo.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6-Articulo.exe
+C:\Users\sarah\Desktop\E6-Articulo\E6-Articulo\obj\Debug\E6-Articulo.pdb

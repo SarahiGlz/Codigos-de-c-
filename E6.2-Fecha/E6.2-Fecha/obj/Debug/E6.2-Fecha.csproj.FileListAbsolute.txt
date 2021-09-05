@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\bin\Debug\E6.2-Fecha.exe.config
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\bin\Debug\E6.2-Fecha.exe
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\bin\Debug\E6.2-Fecha.pdb
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6.2-Fecha.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6._2_Fecha.Form1.resources
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6._2_Fecha.Properties.Resources.resources
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6.2-Fecha.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6.2-Fecha.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6.2-Fecha.exe
+C:\Users\sarah\Desktop\E6.2-Fecha\E6.2-Fecha\obj\Debug\E6.2-Fecha.pdb

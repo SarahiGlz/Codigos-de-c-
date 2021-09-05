@@ -1,0 +1,10 @@
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\bin\Debug\E8-Cambio Divisas.exe.config
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\bin\Debug\E8-Cambio Divisas.exe
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\bin\Debug\E8-Cambio Divisas.pdb
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8-Cambio Divisas.csprojAssemblyReference.cache
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8_Cambio_Divisas.Form1.resources
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8_Cambio_Divisas.Properties.Resources.resources
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8-Cambio Divisas.csproj.GenerateResource.cache
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8-Cambio Divisas.csproj.CoreCompileInputs.cache
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8-Cambio Divisas.exe
+C:\Users\sarah\Desktop\E8-Cambio Divisas\E8-Cambio Divisas\obj\Debug\E8-Cambio Divisas.pdb
